@@ -65,8 +65,8 @@ margin-top: -3rem;
 /* ===== IMAGEN CIRCULAR ===== */
 
 .bistro-img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
@@ -161,6 +161,7 @@ margin-top: -3rem;
   padding: 10px 15px;
   border-bottom: 1px solid #eee;
   max-width: 100%;
+  justify-content: space-between;
 }
 
 .menu-nav-link {
@@ -175,7 +176,7 @@ margin-top: -3rem;
 }
 
 .menu-nav-link:hover {
-  background: #000;
+  background: #463129;
   color: #fff;
 }
 

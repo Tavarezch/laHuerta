@@ -18,10 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
       <div class="collapse navbar-collapse justify-content-end" id="mainNavbar">
         <ul class="navbar-nav gap-3">
           <li class="nav-item">
-            <a class="nav-link" href="menu.html">Menú</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="menu2.html">Menú 2</a>
+            <a class="nav-link" href="menu2.html">Menú</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="about.html">Nosotros</a>
